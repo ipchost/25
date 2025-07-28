@@ -1,10 +1,11 @@
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/MA0wiva0t4YzopoVleGLyA/1200x675mf.jpg" group-title="Джейсон Стейтем", Перевозчик (2002)
 http://m.cdntv.online/f/cuihn3rvtbm4/Transporter_2002.m3u8
 
 
 
 
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
 #EXTGRP:Федеральные
 http://cdntv.online/low/jlghm6nb31/1.m3u8
